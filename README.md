@@ -28,7 +28,7 @@ Cada test abre su propio navegador, así que **los tests son independientes**: s
 ## Estructura del proyecto
 
 ```
-pre-entrega-automation-testing-miguel-escurra/
+pre-entrega-automation-qa/
 ├── tests/
 │   ├── __init__.py
 │   └── test_saucedemo.py      # casos de prueba (login, catálogo, carrito)
@@ -54,8 +54,8 @@ Requisitos previos: **Python 3.9 o superior** y **Google Chrome** instalado.
 1. Clonar el repositorio:
 
    ```bash
-   git clone https://github.com/[usuario]/pre-entrega-automation-testing-miguel-escurra.git
-   cd pre-entrega-automation-testing-miguel-escurra
+   git clone https://github.com/Mick28/pre-entrega-automation-qa.git
+   cd pre-entrega-automation-qa
    ```
 
 2. (Recomendado) Crear y activar un entorno virtual:
