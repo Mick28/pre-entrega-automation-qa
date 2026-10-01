@@ -1,0 +1,13 @@
+{
+  "url_base": "https://www.saucedemo.com/",
+  "usuario_valido": {
+    "usuario": "standard_user",
+    "clave": "secret_sauce"
+  },
+  "textos_esperados": {
+    "titulo_pagina": "Swag Labs",
+    "titulo_inventario": "Products",
+    "titulo_carrito": "Your Cart"
+  },
+  "tiempo_espera_segundos": 10
+}

@@ -1,0 +1,34 @@
+2026-09-30 22:03:24 [INFO] conftest: Navegador abierto
+2026-09-30 22:03:25 [INFO] tests.test_saucedemo: Página de login abierta: https://www.saucedemo.com/
+2026-09-30 22:03:25 [INFO] tests.test_saucedemo: Credenciales enviadas con el usuario standard_user
+2026-09-30 22:03:25 [INFO] tests.test_saucedemo: Login exitoso: URL con /inventory.html, título 'Swag Labs' y sección 'Products'
+2026-09-30 22:03:28 [INFO] conftest: Navegador cerrado
+2026-09-30 22:03:29 [INFO] conftest: Navegador abierto
+2026-09-30 22:03:31 [INFO] conftest: Login previo realizado: estamos en https://www.saucedemo.com/inventory.html
+2026-09-30 22:03:31 [INFO] tests.test_saucedemo: Título de pestaña 'Swag Labs' y de sección 'Products' correctos
+2026-09-30 22:03:33 [INFO] conftest: Navegador cerrado
+2026-09-30 22:03:35 [INFO] conftest: Navegador abierto
+2026-09-30 22:03:36 [INFO] conftest: Login previo realizado: estamos en https://www.saucedemo.com/inventory.html
+2026-09-30 22:03:36 [INFO] tests.test_saucedemo: Se encontraron 6 productos en el inventario
+2026-09-30 22:03:36 [INFO] tests.test_saucedemo: Primer producto -> Nombre: Sauce Labs Backpack | Precio: $29.99
+2026-09-30 22:03:39 [INFO] conftest: Navegador cerrado
+2026-09-30 22:03:40 [INFO] conftest: Navegador abierto
+2026-09-30 22:03:42 [INFO] conftest: Login previo realizado: estamos en https://www.saucedemo.com/inventory.html
+2026-09-30 22:03:42 [INFO] tests.test_saucedemo: Elemento 'menu_hamburguesa' presente y visible
+2026-09-30 22:03:44 [INFO] conftest: Navegador cerrado
+2026-09-30 22:03:46 [INFO] conftest: Navegador abierto
+2026-09-30 22:03:47 [INFO] conftest: Login previo realizado: estamos en https://www.saucedemo.com/inventory.html
+2026-09-30 22:03:47 [INFO] tests.test_saucedemo: Elemento 'filtro_de_orden' presente y visible
+2026-09-30 22:03:50 [INFO] conftest: Navegador cerrado
+2026-09-30 22:03:51 [INFO] conftest: Navegador abierto
+2026-09-30 22:03:53 [INFO] conftest: Login previo realizado: estamos en https://www.saucedemo.com/inventory.html
+2026-09-30 22:03:53 [INFO] tests.test_saucedemo: Elemento 'icono_carrito' presente y visible
+2026-09-30 22:03:56 [INFO] conftest: Navegador cerrado
+2026-09-30 22:03:57 [INFO] conftest: Navegador abierto
+2026-09-30 22:03:59 [INFO] conftest: Login previo realizado: estamos en https://www.saucedemo.com/inventory.html
+2026-09-30 22:03:59 [INFO] tests.test_saucedemo: Contador del carrito incrementado correctamente: 1
+2026-09-30 22:04:02 [INFO] conftest: Navegador cerrado
+2026-09-30 22:04:03 [INFO] conftest: Navegador abierto
+2026-09-30 22:04:04 [INFO] conftest: Login previo realizado: estamos en https://www.saucedemo.com/inventory.html
+2026-09-30 22:04:05 [INFO] tests.test_saucedemo: Producto en el carrito: Sauce Labs Backpack | $29.99
+2026-09-30 22:04:07 [INFO] conftest: Navegador cerrado

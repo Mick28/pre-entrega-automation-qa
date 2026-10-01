@@ -1,0 +1,15 @@
+# Entornos virtuales
+venv/
+.venv/
+
+# Archivos generados por Python y Pytest
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Configuración de editores
+.vscode/
+.idea/
+
+# Importante: la carpeta reports/ NO se ignora, porque el reporte HTML,
+# los logs y las capturas forman parte de la entrega.
